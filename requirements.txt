@@ -1,0 +1,7 @@
+python-vlc
+psutil
+numpy
+soundcard
+pystray
+Pillow
+customtkinter
